@@ -1,0 +1,1 @@
+For now only UI of a calculator. <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-04-06 at 14 15 22" src="https://github.com/user-attachments/assets/bc4e0c2a-0d00-470d-8609-c980da50b248" />
